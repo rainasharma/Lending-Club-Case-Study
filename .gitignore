@@ -1,0 +1,25 @@
+*.class
+*.pyc
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.orig
+*.bak
+private.der
+
+.classpath
+.project
+.settings
+.DS_Store
+.idea
+
+target
+cache.json
+test-output
+packages
+devops
+/target
+/bin/
